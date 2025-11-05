@@ -1,0 +1,8 @@
+{
+  "name": "SOLASHΞN™ Solana Co-pilot",
+  "description": "A live trading assistant and co-pilot for Solana (SOL) scalpers, providing real-time analysis, proactive voice alerts, and interactive chat powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}

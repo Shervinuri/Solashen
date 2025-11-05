@@ -1,0 +1,9 @@
+
+// A subtle, positive notification sound for price increases.
+export const SFX_PRICE_UP = 'data:audio/wav;base64,UklGRl9vT19XQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YUQAAAAAAAAA//8/ACE/OkA/AEI/QEBAQUBDQENAQ0BDQEJAQkA/QD5APEA4QDMANgA5ADwAPgA/AEAAQUBBQENARUBHQElASsBLwEzATcBOwE/AUMBRAFLAU8BVQFXAVsBYwFpAWsBbwFzAXcBewF/AYMBhQGHAYsBjwGRAZUBlwGbAcABwgHHAsUCxwLPAtQC1wLZAtsC3wLfAuUC5wLrAu8C9wL5Av0DAwMHAwsDDwMTAxcDGwMjAyUDJwMpAysDLwM1AzsDPwNCg0eDT4VRhViFWoVghV+FY4VohWyFcIV5hX2GfYh/iYeJhomHiYqJjIuMj4+Qj5CQkZCTkJWQlpCWkJiQmZCan5ygnqCfoaSipqOoq6mrrK+wsbCytLO0tba3t7i5uru8vb6/wMHCw8TFxsfIycrLzM3Oz9DR0tPU1dXX2Nna29zd3t/g4eLj5OXm5+jp6uvs7e7v8PHy8/T19vf4+fr7/P3+/w==';
+
+// A subtle, lower-pitched notification sound for price decreases.
+export const SFX_PRICE_DOWN = 'data:audio/wav;base64,UklGRl9vT19XQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YUQAAAAAAAAA/v/+/v39/fz8/Pv7+/r6+vn5+fj4+Pf39/b29vX19fT09PPz8/Ly8vHx8fDw8O/v7+7u7u3t7ezs7Ovr6+rq6unp6ejo6Ofn5+bm5uXl5eTk5OPj4+Hh4eDg4N/f397e3t3d3dzc3Nvb29ra2tnZ2djY2NfX19bW1tTU1NTT09LT0tHR0dDQ0M/Pz87Ozs3Nzc3MzMzLy8vKysrJycnIyMjHx8fExMTDw8PCwsLAwMCAv7+/vr6+vb29vLy8u7u7urq6ubm5uLi4tra2tbW1tLCwsK+vr6ysrKurq6ioqKenp6ampqWlpWRlZWVkZWRkZGNjY2NjY2JiYmFhYWBgYF9fX15eXl1dXVxcXFtbW1paWlpaWlpaWlpaWlpaWlpaWlpaWlo=';
+
+// A clear, attention-grabbing sound to precede an AI voice alert.
+export const SFX_ALERT = 'data:audio/wav;base64,UklGRoQAAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YYwAAAAA/v/9/v3/9/z7/PX78/bz8O/u7ens6uXp5+Xk5OHj4eHg4N7e3tva2tvZ2dnY19fX1tXV1dTU09PT0dHRz8/Ozs3NzczLysrKysnJyMjHx8fExMTDw8PCwsLAwL+/v76+vr29vby8vLu7u7q6urm5ubg==';
